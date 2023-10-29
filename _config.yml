@@ -1,0 +1,62 @@
+title: "Rumah Yuuza"
+email: mwkdyjvw
+timezone: UTC
+baseurl: ""
+url: "https://yuuza-muzakki.github.io"
+image_url: "https://lh3.googleusercontent.com/pw"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: yuza
+paginate: 30
+disqus: 'demowebsite'
+locale: id_ID
+lang: id_ID
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  yuza:
+    name: Yuza
+    display_name: Yuza
+    avatar: 'assets/images/authors/yuza.png'
+    email: yuuza.muzakki@gmail.com
+    web: https://yuuza-muzakki.github.io
+    description: "Pemilik dari website Rumah Yuuza"
+  papa:
+    name: Papa Ardi
+    display_name: Papa Ardi
+    avatar: 'assets/images/authors/papa_ardi.png'
+    email: mfardiansyah.id@gmail.com
+    web: https://mfardiansyah.id
+    description: "Papanya Yuuza"
+  mama:
+    name: Mama Ria
+    display_name: Mama Ria
+    avatar: 'assets/images/authors/mama_ria.png'
+    email: garsiniaeriani@gmail.com
+    web: https://garsinia.github.io
+    description: "Mamanya Yuuza"
+
+# Social
+social:
+  github: https://github.com/yuuza-muzakki
+  youtube:  https://www.youtube.com/@yuuza.muzakki
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

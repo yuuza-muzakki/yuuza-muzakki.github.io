@@ -1,0 +1,23 @@
+# Top Menu
+topmenu:
+
+- title: Beranda
+  url: ""
+
+- title: Tentang yuza
+  url: "tentang-yuza/"
+
+- title: Kontak
+  url: "kontak/"
+
+# Footer Menu
+footermenu:
+
+- title: Beranda
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Kontak
+  url: "kontak/"
